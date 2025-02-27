@@ -2,6 +2,7 @@ https://www.youtube.com/watch?v=bk7MK7mKumY
 https://github.com/0xbinder/CVE-2024-0044
 https://www.youtube.com/watch?v=K_lCCV4jucA
 
+[fluxion tool evin attack with monitor and disconnecte](https://www.youtube.com/watch?v=-gPrh6ODEDY)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
